@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## This is Wendy.
 
-You can use the [editor on GitHub](https://github.com/sg-influenza/xiaxue/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+At the end of this page is a list of her sponsors— organisations and outlets that financially support and tacitly endorse her activities and opinions. We call on them 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Wendy again. Wendy is a blogger. Wendy loves inciting hate against women, victims of sexual abuse & harrassment, racial minorities, the LGBT community, and so on. 
 
-### Markdown
+In other words, Wendy makes a living by attacking our fellow Singaporean brothers and sisters.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is Wendy. For the past months, Wendy has actively aligned herself with the supporters of Donald Trump—a group and a man renowned for championing misogynistic, racist, homophobic, Islamaphobic, anti-Semitic, far-right, and neo-Nazi beliefs. 
 
-```markdown
-Syntax highlighted code block
+It is very much safe then to presume that Wendy’s sponsors have no problem with such matters. 
 
-# Header 1
-## Header 2
-### Header 3
+This is Wendy. Wendy also has a peculiar and active habit of blocking people who criticise her on social media. It appears that Wendy nurses a sensitivity to any substantial critique of her activities—despite her “Free Speech” persona and her penchant for calling her detractors “snowflakes”.
 
-- Bulleted
-- List
+In many ways, Wendy’s behaviour parallels an old statement (1946) of Jean-Paul Satre: 
 
-1. Numbered
-2. List
+>“Never believe that anti-Semites are completely unaware of the absurdity of their replies. They know that their remarks are frivolous, open to challenge. But they are amusing themselves, for it is their adversary who is obliged to use words responsibly, since he believes in words. The anti-Semites have the right to play. They even like to play with discourse for, by giving ridiculous reasons, they discredit the seriousness of their interlocutors. They delight in acting in bad faith, since they seek not to persuade by sound argument but to intimidate and disconcert. If you press them too closely, they will abruptly fall silent, loftily indicating by some phrase that the time for argument is past.”
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+But should we blame Wendy for spreading such bigotry? Yes, we can and should. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+However, we should also blame those who enable her activities, like for instance, Millennials of Singapore, [insert sponsor], [insert sponsor], or [insert sponsor].
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sg-influenza/xiaxue/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
